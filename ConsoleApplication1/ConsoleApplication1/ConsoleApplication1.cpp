@@ -30,6 +30,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	int n2 = static_n;
 	int n3 = argc;
 	printf("Hello World\n");
+	printf("Feature1\n");
 	return 0;
 }
 
